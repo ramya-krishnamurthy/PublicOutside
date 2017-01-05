@@ -1,0 +1,117 @@
+{
+	"categoryName": "ACCESSORY",
+	"subscriptionName": "UCMDB Offering1 (1.0.0)",
+	"startDate": "2017-01-05T06:48:02.000Z",
+	"lifecyceStages": [{
+			"DEVELOPMENT": {
+				"field_bce557cf53554931a53b59320e6747cf": true,
+				"field_db177f8b87184f648854ac911d120e0a": "10.3.3.3",
+				"field_d56b0b4bc0c84ff3aacddaccc1cad6bd": "2.2.2.2",
+				"field_94fba9af3e824f8aaaa0fa0fb4e5cc03": 10,
+				"field_59a068ff08e84a92b67e6ef3c172918e": false,
+				"field_221b823eeaa54109aee34a5ee52e6aa8": "1.1.1.6",
+				"field_3279dc2326b64d43ac224d3b734905af": true,
+				"field_c70e50fcd8e74079b7c192440ab61f77": "prop_val1",
+				"field_108a050ea7ec42efad143745e9912c1f": "1111",
+				"field_1af31a2fac2f43f19fefcd9c2d61f566": false,
+				"field_64ce520eafd04e46a3144556e57271d3": "qqq"
+			}
+		},
+
+		{
+			"TESTING": {
+				"field_bce557cf53554931a53b59320e6747cf": false,
+				"field_db177f8b87184f648854ac911d120e0a": "10.3.3.3",
+				"field_d56b0b4bc0c84ff3aacddaccc1cad6bd": "2.2.2.2",
+				"field_94fba9af3e824f8aaaa0fa0fb4e5cc03": 10,
+				"field_59a068ff08e84a92b67e6ef3c172918e": false,
+				"field_221b823eeaa54109aee34a5ee52e6aa8": "1.1.1.6",
+				"field_3279dc2326b64d43ac224d3b734905af": true,
+				"field_c70e50fcd8e74079b7c192440ab61f77": "prop_val1",
+				"field_108a050ea7ec42efad143745e9912c1f": "1111",
+				"field_1af31a2fac2f43f19fefcd9c2d61f566": true,
+				"field_64ce520eafd04e46a3144556e57271d3": "qqq"
+			}
+		},
+
+		{
+			"STAGING": {
+				"field_bce557cf53554931a53b59320e6747cf": false,
+				"field_db177f8b87184f648854ac911d120e0a": "10.3.3.3",
+				"field_d56b0b4bc0c84ff3aacddaccc1cad6bd": "2.2.2.2",
+				"field_94fba9af3e824f8aaaa0fa0fb4e5cc03": 10,
+				"field_59a068ff08e84a92b67e6ef3c172918e": false,
+				"field_221b823eeaa54109aee34a5ee52e6aa8": "1.1.1.6",
+				"field_3279dc2326b64d43ac224d3b734905af": true,
+				"field_c70e50fcd8e74079b7c192440ab61f77": "prop_val1",
+				"field_108a050ea7ec42efad143745e9912c1f": "1111",
+				"field_1af31a2fac2f43f19fefcd9c2d61f566": true,
+				"field_64ce520eafd04e46a3144556e57271d3": "qqq"
+			}
+		},
+
+		{
+			"PRODUCTION": {
+				"field_bce557cf53554931a53b59320e6747cf": false,
+				"field_db177f8b87184f648854ac911d120e0a": "10.3.3.3",
+				"field_d56b0b4bc0c84ff3aacddaccc1cad6bd": "2.2.2.2",
+				"field_94fba9af3e824f8aaaa0fa0fb4e5cc03": 10,
+				"field_59a068ff08e84a92b67e6ef3c172918e": false,
+				"field_221b823eeaa54109aee34a5ee52e6aa8": "1.1.1.6",
+				"field_3279dc2326b64d43ac224d3b734905af": true,
+				"field_c70e50fcd8e74079b7c192440ab61f77": "prop_val1",
+				"field_108a050ea7ec42efad143745e9912c1f": "1111",
+				"field_1af31a2fac2f43f19fefcd9c2d61f566": true,
+				"field_64ce520eafd04e46a3144556e57271d3": "qqq"
+			}
+		}
+	],
+	"pricing": {
+		"field_bce557cf53554931a53b59320e6747cf": {
+			"initPrice": 10,
+			"recurringPrice": 50
+		},
+		"field_db177f8b87184f648854ac911d120e0a": {
+			"initPrice": null,
+			"recurringPrice": null
+		},
+		"field_d56b0b4bc0c84ff3aacddaccc1cad6bd": {
+			"initPrice": null,
+			"recurringPrice": null
+		},
+		"field_94fba9af3e824f8aaaa0fa0fb4e5cc03": {
+			"initPrice": 0,
+			"recurringPrice": 0
+		},
+		"field_59a068ff08e84a92b67e6ef3c172918e": {
+			"initPrice": 10,
+			"recurringPrice": 40
+		},
+		"field_221b823eeaa54109aee34a5ee52e6aa8": {
+			"initPrice": null,
+			"recurringPrice": null
+		},
+		"field_3279dc2326b64d43ac224d3b734905af": {
+			"initPrice": 20,
+			"recurringPrice": 45
+		},
+		"field_c70e50fcd8e74079b7c192440ab61f77": {
+			"initPrice": null,
+			"recurringPrice": null
+		},
+		"field_108a050ea7ec42efad143745e9912c1f": {
+			"initPrice": null,
+			"recurringPrice": null
+		},
+		"field_1af31a2fac2f43f19fefcd9c2d61f566": {
+			"initPrice": 0,
+			"recurringPrice": 0
+		},
+		"field_64ce520eafd04e46a3144556e57271d3": {
+			"initPrice": null,
+			"recurringPrice": null
+		}
+	},
+	"displayNames": {},
+	"action": "ORDER"
+}
