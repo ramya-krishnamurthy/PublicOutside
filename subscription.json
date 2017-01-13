@@ -1,6 +1,3 @@
------------------------------18056286366311
-Content-Disposition: form-data; name="requestForm"
-
 {
 	"categoryName": "ACCESSORY",
 	"subscriptionName": "UCMDB Offering1 (1.0.0)",
@@ -119,4 +116,3 @@ Content-Disposition: form-data; name="requestForm"
 	"displayNames": {},
 	"action": "ORDER"
 }
------------------------------18056286366311--
